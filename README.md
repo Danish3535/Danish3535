@@ -138,7 +138,7 @@ A real-time gas leakage detection and alert system for domestic and industrial s
 
 [![Gmail](https://img.shields.io/badge/Gmail-3535danishmohd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3535danishmohd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Danish3535-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danish3535)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohameddanish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-danish-6554182a8)
 
 📍 Bangalore, Karnataka | 📞 +91 9483226885
 
